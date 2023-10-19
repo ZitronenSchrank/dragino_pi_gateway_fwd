@@ -1,0 +1,12 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/zitrone/dragino_pi_gateway_fwd/lora_pkt_fwd",
+            "binaryPath": "/home/zitrone/dragino_pi_gateway_fwd/lora_pkt_fwd/lora_pkt_fwd",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "trace.h": "c"
+    }
+}
